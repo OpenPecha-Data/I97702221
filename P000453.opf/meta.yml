@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W19829
   title: འབོ་གངས་དཀར་རྣམ་ཐར།
-  volume: ''
+  volume:
+    377517d8a205488c99e40cd257f760c3:
+      image_group_id: I1GS105450
+      title: Volume 1 of 'bo gangs dkar rnam thar
+      volume_number: 1
+      total_pages: 104
   author: ''
+ebook_metadata:
+  title: འབོ་གངས་དཀར་རྣམ་ཐར།
+  author: ''
+  sku: P000453
+  cover: cover.jpg
+  layers:
+  - pagination
