@@ -1,15 +1,16 @@
-id: opecha:P000453
+id: P000453
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W19829
   title: འབོ་གངས་དཀར་རྣམ་ཐར།
-  volume:
+  author: ''
+  volumes:
     377517d8a205488c99e40cd257f760c3:
       image_group_id: I1GS105450
       title: Volume 1 of 'bo gangs dkar rnam thar
       volume_number: 1
       total_pages: 104
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འབོ་གངས་དཀར་རྣམ་ཐར།
   author: ''
